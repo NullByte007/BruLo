@@ -1,0 +1,1 @@
+create another script which helps to get the unique content length from the results.txtø
